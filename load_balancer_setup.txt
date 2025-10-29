@@ -1,0 +1,7 @@
+AWS Load Balancer Setup Steps:
+1. Go to EC2 Dashboard → Load Balancers → Create Load Balancer.
+2. Choose Application Load Balancer.
+3. Configure listeners (HTTP:80).
+4. Create or select a security group.
+5. Register EC2 instances in the target group.
+6. Review and create the Load Balancer.

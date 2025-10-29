@@ -1,0 +1,5 @@
+Steps to Upload Data to S3:
+1. Open AWS S3 Console → Create new bucket (e.g., ecommerce-data-bucket).
+2. Upload dataset files (e.g., manifest.json, data.csv).
+3. Set permissions for access (public or restricted as required).
+4. Use the dataset in AWS QuickSight for visualization.
